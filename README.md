@@ -1,1 +1,1 @@
-# Java_algorithms
+# Baekjoon_JavaAlgorithms
