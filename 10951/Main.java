@@ -7,7 +7,7 @@ public class Main{
         while(scanner.hasNextInt()){ //hasNext 메소드를 활용한다.
             int A = scanner.nextInt();
             int B = scanner.nextInt();
-
+            
             System.out.println(A+B);
         }
     }

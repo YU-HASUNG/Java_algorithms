@@ -49,8 +49,7 @@ public class Main{
                 } else {
                     star(i, j, size, false);
                 }
+            }
         }
-        
     }
-}
 }

@@ -12,6 +12,7 @@ public class Main {
         double Sum = 0;
         double[] array = new double[A];
 
+    
         StringTokenizer st = null;
         st = new StringTokenizer(br.readLine());
 

@@ -27,7 +27,7 @@ public class Main{
             for(int i=n+1;i<=2*n;i++){
                 if(!prime[i]){count++;}
             }
-            bw.write(Integer.toString(count));
+            bw.write(Integer.toString(count)+"\n");
         }
         br.close();
         bw.flush();
